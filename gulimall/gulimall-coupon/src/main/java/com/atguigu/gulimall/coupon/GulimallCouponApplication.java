@@ -51,7 +51,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  *
  *
  */
-
+@EnableDiscoveryClient
 @SpringBootApplication
 public class GulimallCouponApplication {
 
